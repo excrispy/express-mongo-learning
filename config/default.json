@@ -1,0 +1,8 @@
+{
+  "name": "Express Learning Default",
+  "profile": {
+    "email": "austin@gmail.com",
+    "number": 1234567890
+  },
+  "jwtPrivateKey": ""
+}
